@@ -1,6 +1,5 @@
 
 6 avacado
->>>>>>> a3f418f37c3bb1c2c9496a2102aaed11d2c6a43c
 lime juice
 onions
 cilantro
