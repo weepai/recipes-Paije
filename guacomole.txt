@@ -6,3 +6,4 @@ garlic
 salt
 hot sauce
 tomatoes
+Magic
